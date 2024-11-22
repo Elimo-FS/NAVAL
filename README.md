@@ -1,5 +1,6 @@
 # 🛥️ Jeu de Bataille Navale (2 joueurs)
 
+
 ## ✏️ Description
 
 Ce jeu est une version simplifiée du classique **Bataille Navale**, où deux joueurs s'affrontent sur une grille de 8x8 pour détruire les navires de l'adversaire. Les joueurs jouent à tour de rôle, en plaçant leurs navires et en attaquant l'adversaire, le but étant de couler tous les navires de l'autre joueur.
