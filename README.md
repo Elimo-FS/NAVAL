@@ -29,4 +29,19 @@ Ce jeu est une version simplifiée du classique **Bataille Navale**, où deux jo
 1. Clonez ce repository sur votre machine locale :
    ```bash
    git clone https://github.com/Elimo-FS/NAVAL.git
+   cd NAVAL
    ```
+
+2. Installez les dépendances :
+   ```bash
+   npm install
+   ```
+      
+3. Lancer la version de production :
+   ```bash
+   npm start
+   ```
+
+---
+
+Pour plus d'informations ou des contributions, visitez [le dépôt GitHub du projet](https://github.com/Elimo-FS/NAVAL).
